@@ -1,0 +1,9 @@
+streamlit==1.38.0
+torch
+unsloth
+transformers
+peft
+accelerate
+bitsandbytes
+sentencepiece
+pyngrok
